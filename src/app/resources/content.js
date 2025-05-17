@@ -189,7 +189,8 @@ const about = {
       {
         name: "Portfolio Website",
         description: "My personal portfolio built with Next.js and reference of Once UI",
-        link: "https://github.com/Kalki2898AD/portfolio"
+        link: "https://github.com/Kalki2898AD/portfolio",
+        website: "https://portfolio-kalki2898ads-projects.vercel.app/",
       },
       {
         name: "NutriVision",
