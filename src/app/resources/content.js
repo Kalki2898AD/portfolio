@@ -187,12 +187,6 @@ const about = {
         website: "https://carlos-sandy-gamma.vercel.app/"
       },
       {
-        name: "Portfolio Website",
-        description: "My personal portfolio built with Next.js and reference of Once UI",
-        link: "https://github.com/Kalki2898AD/portfolio",
-        website: "https://portfolio-kalki2898ads-projects.vercel.app/",
-      },
-      {
         name: "NutriVision",
         description: "NutriVision is an AI-powered mobile website that scans food to estimate calories and nutrition. It offers personalized diet plans, daily tracking, and a smart chatbot for real-time dietary support.",
         link: "https://github.com/Kalki2898AD/Nutri_Vision",
