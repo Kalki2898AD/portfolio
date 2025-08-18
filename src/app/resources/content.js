@@ -190,7 +190,13 @@ const about = {
         name: "NutriVision",
         description: "NutriVision is an AI-powered mobile website that scans food to estimate calories and nutrition. It offers personalized diet plans, daily tracking, and a smart chatbot for real-time dietary support.",
         link: "https://github.com/Kalki2898AD/Nutri_Vision",
-        website: "https://nutrivision-oc9q.onrender.com/",
+        website: "https://nutrivision-oc9q.onrender.com/"
+      },
+      {
+        name: "Vichaar",
+        description: "Vichaar is a replica of my College Netra website which helps students to find their data and their friends data too.",
+        link: "https://github.com/rishikeshvarma9854/Vichaar",
+        website: "https://vichaar-kappa.vercel.app/"
       }
     ]
   },
