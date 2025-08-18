@@ -20,7 +20,7 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/Kalki2898AD",
+    link: "https://github.com/rishikeshvarma9854",
   },
   {
     name: "LinkedIn",
